@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Lab 21 — Large training files, checkpoints, and optimizer states
+**/checkpoint-*/
+**/optimizer.pt
+**/tokenizer.json
+lab21_lora_t4/r64/adapter_model.safetensors
+
